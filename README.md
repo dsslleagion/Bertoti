@@ -7,3 +7,5 @@
 
 # Requisitos não funcionaais de um software 
 
+
+![Untitled Diagram--- drawio](https://user-images.githubusercontent.com/88494278/156756919-abca8f3a-92cb-42df-97c9-e0e53791080e.png)
