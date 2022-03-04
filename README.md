@@ -3,5 +3,5 @@
 # Requisitos Funcionais de um software
 
 
-# requisitos não funcionaais de um software 
+# Requisitos não funcionaais de um software 
 
