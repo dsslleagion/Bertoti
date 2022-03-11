@@ -72,3 +72,9 @@ O uso de palavras "Anexar Trabalhos/Tarefas" "Enviar", o usuario vizualiza palav
 
 Uma internace simples, com icones intuitivos que fazem relação com ações, auxiliando o entendimento do usuario
 
+
+# Diagrama de Classe
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/88494278/157780673-0241b569-2de6-4395-8239-c5b0abbdfbc7.png)
+
+
