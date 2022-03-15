@@ -88,48 +88,4 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 ##
 
-package PlataformaDeEnsino;
-
-import java.util.LinkedList;
-import java.util.List;
-
-public class Plataformaensino{
-    private List<Pessoa> pessoas = new LinkedList<Pessoa>();
-    private List<Turmas> turmas = new LinkedList<Turma>();
-
-    public void cadastrarPessoa(Pessoa pessoa){
-        pessoas.add(pessoa);
-    }
-    public List<Pessoa> buscarPessoas (string nome){
-        List<Pessoa> pessoasEncontradas = new LikedList<Pessoa>();
-        for (Pessoa pessoa : this.pessoas) {
-             if(Pessoa.getnome().equals(nome)) {
-                 pessoasEncontradas.add(pessoa);
-             }
-         }
-         return pessoasEncontradas;
-         }
-      
-     public Pessoa buscarPessoaPorTelefone (String telefone){
-         Pessoa telPessoasEncontrados =null;
-         for (Pessoa pessoa: this.pessoas) {
-             if(pessoa.getTelefone().equals(telefone)) {
-                 telPessoaEncontrados = pessoa;
-                  break;
-              }
-          }
-          return telPessoasEncontrados;
-      }
-
-     public Pessoa buscarPessoaPorEmail (String email){
-         Pessoa emailPessoasEncontradas = null;
-         for (pessoa pessoa: this.pessoas) {
-             if (pessoa.getEmail().equals(email)) {
-                 emailPessoasEncontradas = pessoa;
-                 break;
-             }
-          }
-          return emailPessoasEncontradas;
-      }
-
 
