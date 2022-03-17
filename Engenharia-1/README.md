@@ -101,7 +101,8 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 
 
-<img width="794" alt="Codigo Segundario parte 2" src="https://user-images.githubusercontent.com/88494278/158898539-0fd2df70-9b28-4d00-b3e4-c8c9f93fb78a.png">
+![Sem título](https://user-images.githubusercontent.com/88494278/158907802-0951f33d-692e-4e15-8396-1474149b3399.jpg)
+
 
 
 
