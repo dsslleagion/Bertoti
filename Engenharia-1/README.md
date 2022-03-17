@@ -79,6 +79,8 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # 10/03 - Atividade de Projeto
 
+# Projeto da arquitetura de um sistema escolar.
+
 # Diagrama de Classe
 
 ![Untitled DiagramTalarico](https://user-images.githubusercontent.com/88494278/158907156-738f1650-00ec-4b8b-b47a-58439cc46321.jpg)
