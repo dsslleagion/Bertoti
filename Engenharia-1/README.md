@@ -81,7 +81,7 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # Diagrama de Classe
 
-![Untitled Diagram (2)](https://user-images.githubusercontent.com/88494278/158903228-17f3a543-4a11-4098-a916-59009ba6c345.jpg)
+![Untitled Diagramok](https://user-images.githubusercontent.com/88494278/158903623-ba5260d3-24a2-4be0-a710-fe78f1f20a71.jpg)
 
 ##
 
