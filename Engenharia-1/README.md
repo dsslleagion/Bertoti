@@ -81,7 +81,7 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # Diagrama de Classe
 
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/88494278/158900549-66fae3d0-ac47-4ec8-ac0d-8b5baa29f1a4.png)
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/88494278/158902626-91c7fddd-7926-46e7-bfe8-98ea09a53f46.png)
 
 ##
 
