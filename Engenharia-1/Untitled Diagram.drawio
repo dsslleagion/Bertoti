@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T21:55:01.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.70" etag="_1So7u1lw9QTZ4GhL_U4" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T22:08:43.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.70" etag="OK4pzYVrRjX0zf6vEZUH" version="17.1.3" type="github">
   <diagram id="-t7eZelU3IxGABOgwKmu" name="Page-1">
     <mxGraphModel dx="741" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,14 +100,14 @@
         <mxCell id="mYwKcbZ6TMdc5Nefc8mu-16" value="+cadastrarTurma(Turma)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
           <mxGeometry x="65" y="285" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-17" value="+buscarTurma(String sala): List &amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
-          <mxGeometry x="20" y="310" width="240" height="20" as="geometry" />
+        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-17" value="+buscarTurmaPorSala(String sala): List &amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
+          <mxGeometry y="310" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-18" value="+buscarTurma(String horario): List&amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
-          <mxGeometry x="16" y="340" width="250" height="20" as="geometry" />
+        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-18" value="+buscarTurmaPorHorario(String horario): List&amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
+          <mxGeometry x="3" y="340" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-19" value="+buscarTurma(String sala): List &amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
-          <mxGeometry x="21" y="370" width="240" height="20" as="geometry" />
+        <mxCell id="mYwKcbZ6TMdc5Nefc8mu-19" value="+buscarTurmaPorMateria(String materia): List &amp;lt;Turma&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJkptyXSdFllFcenwYrm-4" vertex="1">
+          <mxGeometry x="-5" y="370" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gfg0ddif03EMCMckq925-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gfg0ddif03EMCMckq925-2" target="QJkptyXSdFllFcenwYrm-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
