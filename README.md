@@ -1,5 +1,7 @@
 # Bertoti - Engenharia de software - I
  
+# Dionisio Samuel dos Santos Leão - RA:1460482121012
+
 # O que são Heuristicas para desenvolver um Software?
 
 Pensar em design de UI (User Interface) é pensar em projetar uma interface que não dê ao usuário uma sensação de insegurança, mostre com clareza qual é o resultado de suas ações e garanta que ele execute todas as tarefas de forma simples e eficaz , ou seja, é deixar o usuário "não precisar do manual". Para isso, o cientista da computação Jakob Nielsen criou dez heurísticas que ajudam a projetar interfaces bem projetadas que resultam em uma ótima experiência do usuário.
@@ -51,6 +53,8 @@ Um exemplo são aqueles avisos de formulários nos campos que não foram preench
 
 Normalmente essas são as áreas menos acessadas mas ainda assim elas são importantes dentro de um sistema pois nunca se sabe quando um usuário irá precisar de uma ajudinha. É como se fosse uma maneira “faça você mesmo” do usuário resolver suas dúvidas de quais ações tomar dentro da aplicação tornando-o mais independente do suporte.
 
+# 03/03 - Ciclo de Vida do DER SW
+##
 # Requisitos Funcionais de um software ( Diagrama de casos de uso)
 
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/88494278/156750983-2e8b3955-bef0-426a-acff-67d636dc7c7e.png)
@@ -73,12 +77,15 @@ O uso de palavras "Anexar Trabalhos/Tarefas" "Enviar", o usuario vizualiza palav
 Uma internace simples, com icones intuitivos que fazem relação com ações, auxiliando o entendimento do usuario
 
 
+#10/03 - Atividade de Projeto
+##
 # Diagrama de Classe
 
 ![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/88494278/157856858-f93a0103-9541-4f0f-9655-067f582bfbbf.png)
 
 ##
 
+#CLasses + Java
 
 #CODIGO FONTE
 
