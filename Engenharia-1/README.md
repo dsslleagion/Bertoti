@@ -66,7 +66,7 @@ Normalmente essas são as áreas menos acessadas mas ainda assim elas são impor
 ![Untitled Diagram--- drawio](https://user-images.githubusercontent.com/88494278/156756919-abca8f3a-92cb-42df-97c9-e0e53791080e.png)
 
 
-# HEURISTICA DE USABILIDADE 
+# HEURISTICAS UTILIZADAS
 
 # 2 CORRESPONDÊNCIA  ENTRE SISTEMA E O MUNDO REAL
 
