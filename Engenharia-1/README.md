@@ -96,8 +96,7 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # Codigo Segundario
 
-<img width="4116" alt="Codigo Segundario" src="https://user-images.githubusercontent.com/88494278/158898204-85f1513f-3611-4615-804a-e4fdf48c0e68.png">
-
+![impre](https://user-images.githubusercontent.com/88494278/158904582-093e542c-833d-4044-8080-700a9a051f89.jpg)
 
 
 <img width="794" alt="Codigo Segundario parte 2" src="https://user-images.githubusercontent.com/88494278/158898539-0fd2df70-9b28-4d00-b3e4-c8c9f93fb78a.png">
