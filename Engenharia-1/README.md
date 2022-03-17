@@ -97,7 +97,8 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # Codigo Segundario
 
-<img width="304" alt="Codigo fonte Principal" src="https://user-images.githubusercontent.com/88494278/158478385-e09ead6e-ec2d-459c-9545-4e3524b19ba4.png">
+<img width="4116" alt="Codigo Segundario" src="https://user-images.githubusercontent.com/88494278/158897968-978a5ea9-0012-4fa9-a9e5-573796affff0.png">
+
 
 <img width="304" alt="Codigo fonte Principal" src="https://user-images.githubusercontent.com/88494278/158478505-c3ba8b81-a450-48d3-b61b-388842fe82cf.png">
 
