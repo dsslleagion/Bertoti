@@ -90,7 +90,8 @@ Uma internace simples, com icones intuitivos que fazem relação com ações, au
 
 # CODIGO FONTE
 
-<img width="304" alt="Codigo fonte Principal" src="https://user-images.githubusercontent.com/88494278/158895376-6568610e-3c02-40c6-a963-7532ac615ed2.jpg">
+![Codigo Plataforma Principal](https://user-images.githubusercontent.com/88494278/158897753-0ca89c56-2876-4c0f-89d6-ad107f967a2e.jpg)
+
 
 ##
 
