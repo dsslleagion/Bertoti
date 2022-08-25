@@ -13,8 +13,11 @@ Diretriz 1.1 - Alternativas de Texto
 
 # Exemplo de site acessivel
 <img width="960" alt="Captura de tela 2022-08-25 191212 (2)" src="https://user-images.githubusercontent.com/88494278/186779138-394f2f17-c069-4b06-96fc-a0e9cd84ffdb.png">
+
 # Sinalização
-![Imagem do WhatsApp de 2022-08-25 à(s) 19 06 13](https://user-images.githubusercontent.com/88494278/186779312-05b7250f-8304-42b6-ae49-905c1390257e.jpg)
+
+![Imagem do WhatsApp de 2022-08-25 à(s) 19 06 13](https://user-images.githubusercontent.com/88494278/186779470-831fccdf-b9f9-4ac5-a38a-764f04fff2ce.jpg)
+
 
 
 # Site que não atende essa diretriz
