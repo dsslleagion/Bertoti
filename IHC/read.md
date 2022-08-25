@@ -31,3 +31,4 @@ Diretriz 1.1 - Alternativas de Texto
 Diretriz 1.2 - Mídia baseada em tempo
 Forneça alternativas para mídia baseada em tempo.
 
+<img width="960" alt="Captura de tela 2022-08-25 191212 (2)" src="https://user-images.githubusercontent.com/88494278/186783001-4c4bba68-e799-4294-a6a8-5960b205df55.png">
