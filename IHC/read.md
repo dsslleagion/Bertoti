@@ -24,3 +24,10 @@ Diretriz 1.1 - Alternativas de Texto
 <img width="960" alt="mercado livre" src="https://user-images.githubusercontent.com/88494278/186778936-139c9e70-d928-4ba8-8cba-16f448688440.png">
 
 
+
+
+
+
+Diretriz 1.2 - Mídia baseada em tempo
+Forneça alternativas para mídia baseada em tempo.
+
