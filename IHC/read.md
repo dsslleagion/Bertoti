@@ -22,5 +22,5 @@ Diretriz 1.1 - Alternativas de Texto
 
 # Site que não atende essa diretriz
 <img width="960" alt="mercado livre" src="https://user-images.githubusercontent.com/88494278/186778936-139c9e70-d928-4ba8-8cba-16f448688440.png">
-site não aplicavel
+
 
