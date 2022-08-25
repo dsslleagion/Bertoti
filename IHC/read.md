@@ -11,9 +11,13 @@ Diretriz 1.1 - Alternativas de Texto
 
 ° Forneçer alternativas de texto para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
 
-<img width="960" alt="Captura de tela 2022-08-25 191212" src="https://user-images.githubusercontent.com/88494278/186778867-1088c753-6fdb-4459-8d3a-9a285ba2c801.png">
-site com acessebilidade aplicavel
+# Exemplo de site acessivel
+<img width="960" alt="Captura de tela 2022-08-25 191212 (2)" src="https://user-images.githubusercontent.com/88494278/186779138-394f2f17-c069-4b06-96fc-a0e9cd84ffdb.png">
+# Sinalização
+![Imagem do WhatsApp de 2022-08-25 à(s) 19 06 13](https://user-images.githubusercontent.com/88494278/186779312-05b7250f-8304-42b6-ae49-905c1390257e.jpg)
 
+
+# Site que não atende essa diretriz
 <img width="960" alt="mercado livre" src="https://user-images.githubusercontent.com/88494278/186778936-139c9e70-d928-4ba8-8cba-16f448688440.png">
 site não aplicavel
 
