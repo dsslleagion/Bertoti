@@ -33,5 +33,5 @@ Forneça alternativas para mídia baseada em tempo.
 
 <img width="960" alt="Captura de tela 2022-08-25 195720" src="https://user-images.githubusercontent.com/88494278/186783070-fa1d1251-0fd1-4312-88dc-4d0c76e15d93.png">
 
-O fornecimento de legendas é executada em tempo real com a fala das personagens, e são geradas simultaneamente com o tempo de execução do video
+O fornecimento de legendas é executada em tempo real com a fala das personagens, e são geradas simultaneamente conforme o tempo do video
 
