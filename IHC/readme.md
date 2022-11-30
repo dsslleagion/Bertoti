@@ -35,3 +35,16 @@ Forneça alternativas para mídia baseada em tempo.
 
 O fornecimento de legendas é executada em tempo real com a fala das personagens, e são geradas simultaneamente conforme o tempo do video
 
+
+
+# Diretriz 1.3 - Adaptável
+
+Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
+
+#Computador
+
+
+#Celular
+
+
+
