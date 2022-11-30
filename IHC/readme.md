@@ -41,10 +41,14 @@ O fornecimento de legendas é executada em tempo real com a fala das personagens
 
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
-#Computador
+# Celular
+
+![Imagem do WhatsApp de 2022-11-29 à(s) 22 31 39](https://user-images.githubusercontent.com/88494278/204685690-eb6df372-c555-4dc6-9be6-a6d9e3a34f5e.jpg)
 
 
-#Celular
+# Computador
+
+<img width="958" alt="Captura de tela 2022-11-29 223203" src="https://user-images.githubusercontent.com/88494278/204685709-de93fd2f-ed0a-463d-8968-c7ba27d2bd04.png">
 
 
 
