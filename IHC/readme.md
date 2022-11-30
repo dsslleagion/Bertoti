@@ -50,7 +50,7 @@ Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layo
 
 <img width="958" alt="Captura de tela 2022-11-29 223203" src="https://user-images.githubusercontent.com/88494278/204685709-de93fd2f-ed0a-463d-8968-c7ba27d2bd04.png">
 
-# Diretriz 4.1
+# Diretriz 1.4
 
 No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programaticamente por meio de função ou propriedades, de modo que possam ser incorporadas ao usuário por tecnologias assistivas sem receber foco.
 
