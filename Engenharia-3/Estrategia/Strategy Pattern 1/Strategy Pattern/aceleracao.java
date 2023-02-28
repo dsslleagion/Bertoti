@@ -1,3 +1,3 @@
-public interface aceleracao {
+public interface Aceleracao {
     public void acelera();
 }

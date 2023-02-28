@@ -1,15 +1,17 @@
 
-public class carro{
-	private aceleracao aceleracao;
+public class Carro {
+ Aceleracao aceleracao;
 
-    public carro(aceleracao aceleracao){
-        setTipoMotor(aceleracao);
-    }
-    public void setTipoMotor(aceleracao aceleracao) {
-		this.aceleracao = aceleracao;
-	}
-    public void acelerar() {
-		this.aceleracao.acelera();
-	}
-	
+  public void setTipoMotor(Aceleracao acelera) {
+    this.aceleracao = acelera;
+  }
+
+  public Carro(Aceleracao acelera){
+    setTipoMotor(acelera);
+}
+
+  public void acelerar() {
+    this.aceleracao.acelera();
+  }
+
 }
