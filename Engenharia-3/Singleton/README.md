@@ -4,5 +4,6 @@ O Singleton é um padrão de projeto criacional que permite a você garantir que
 
 # ✒️ DIAGRAMA SINGLETON PATTERN
 
-![Diagrama sem nome (3)](https://user-images.githubusercontent.com/88494278/231204367-a2d9b39e-3c62-47e2-a0f2-e32867c6576b.jpg)
+![Captura de tela 2023-04-11 120243](https://user-images.githubusercontent.com/88494278/231205203-ec9e4a0d-e849-4a7a-afe5-c5d444f07014.png)
+
 
