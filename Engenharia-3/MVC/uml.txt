@@ -1,0 +1,85 @@
+@startuml
+
+class Book {
+  - title: String
+  - author: String
+  + getTitle(): String
+  + getAuthor(): String
+}
+
+class LibraryApp {
+}
+
+class LibraryFacade {
+  - controller: LibraryController
+  + addBook(title: String, author: String): void
+  + removeBook(title: String): void
+  + searchBooksByTitle(keyword: String): void
+  + searchBooksByAuthor(keyword: String): void
+}
+
+class LibraryManager {
+  - instance: LibraryManager
+  - libraryId: int
+  + getInstance(): LibraryManager
+  + getLibraryId(): int
+}
+
+class LibraryController {
+  - model: LibraryModel
+  - view: LibraryView
+  + addBook(title: String, author: String): void
+  + removeBook(title: String): void
+  + searchBooksByTitle(keyword: String): void
+  + searchBooksByAuthor(keyword: String): void
+}
+
+class LibraryModel {
+  - books: List<Book>
+  + addObserver(observer: Observer): void
+  + removeObserver(observer: Observer): void
+  + addBook(title: String, author: String): void
+  + removeBook(title: String): void
+  + getAllBooks(): List<Book>
+  - notifyObservers(): void
+}
+
+class LibraryView {
+  - model: LibraryModel
+  + displayBooks(): void
+  + update(): void
+}
+
+interface Observer {
+  + update(): void
+}
+
+interface SearchStrategy {
+  + search(books: List<Book>, keyword: String): List<Book>
+}
+
+class SearchByTitleStrategy {
+}
+
+class SearchByAuthorStrategy {
+}
+
+Book --> LibraryModel
+LibraryApp --> LibraryFacade
+LibraryFacade --> LibraryController
+LibraryFacade --> LibraryModel
+LibraryFacade --> LibraryView
+LibraryController --> LibraryModel
+LibraryController --> LibraryView
+LibraryModel --> Observer
+LibraryView --> LibraryModel
+LibraryView --> Observer
+LibraryModel --> Book
+LibraryController --> Book
+LibraryFacade --> Book
+LibraryController --> SearchStrategy
+LibraryFacade --> SearchStrategy
+SearchByTitleStrategy --> SearchStrategy
+SearchByAuthorStrategy --> SearchStrategy
+
+@enduml
