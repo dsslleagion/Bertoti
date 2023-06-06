@@ -5,7 +5,8 @@ O padrão de design MVC (Model-View-Controller) é uma abordagem arquitetural am
 
 ## Exemplo Projeto Bibloteca 
 
-![Diagrama sem nome(9)(1)(2)(1)(1)](https://github.com/dsslleagion/Bertoti/assets/88494278/1a5ed19c-b426-431d-9518-5e1cd74b484c)
+![Diagrama sem nome(9)(1)(2)(1)(3) drawio(1)](https://github.com/dsslleagion/Bertoti/assets/88494278/36eba1f3-c607-47c3-a505-45c5a362894d)
+
 
 
 
